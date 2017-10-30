@@ -1,0 +1,26 @@
+[
+    {
+      "title": "This is new title",
+      "link": "www.google.com",
+      "sponsored": false,
+      "imgSrc": "img/default.jpg"  
+    },
+    {
+        "title": "This is new title",
+        "link": "www.google.com",
+        "sponsored": true,
+        "imgSrc": "img/default.jpg"  
+      },
+      {
+        "title": "This is new title",
+        "link": "www.google.com",
+        "sponsored": false,
+        "imgSrc": "img/default.jpg"  
+      },
+      {
+        "title": "This is new title",
+        "link": "www.google.com",
+        "sponsored": false,
+        "imgSrc": "img/default.jpg"  
+      }
+]
