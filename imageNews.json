@@ -1,26 +1,26 @@
 [
     {
-      "title": "This is new title",
+      "title": "Immigration Minister Ahmed Hussen Comments on National Francophone Immigration Week",
       "link": "www.google.com",
       "sponsored": false,
-      "imgSrc": "img/default.jpg"  
+      "imgSrc": "https://raw.githubusercontent.com/tanvir-ux/ee_news/master/img/default.jpg"  
     },
     {
-        "title": "This is new title",
+        "title": "We are Canadian Immigration Farm",
         "link": "www.google.com",
         "sponsored": true,
-        "imgSrc": "img/default.jpg"  
+        "imgSrc": "https://raw.githubusercontent.com/tanvir-ux/ee_news/master/img/default.jpg"  
       },
       {
         "title": "This is new title",
         "link": "www.google.com",
         "sponsored": false,
-        "imgSrc": "img/default.jpg"  
+        "imgSrc": "https://raw.githubusercontent.com/tanvir-ux/ee_news/master/img/default.jpg"  
       },
       {
         "title": "This is new title",
         "link": "www.google.com",
         "sponsored": false,
-        "imgSrc": "img/default.jpg"  
+        "imgSrc": "https://raw.githubusercontent.com/tanvir-ux/ee_news/master/img/default.jpg"  
       }
 ]
