@@ -15,7 +15,7 @@
         "title": "This is new title",
         "link": "www.google.com",
         "sponsored": false,
-        "imgSrc": "https://raw.githubusercontent.com/tanvir-ux/ee_news/master/img/default.jpg"  
+        "imgSrc": ""  
       },
       {
         "title": "Ontario PhD Graduate Stream Reaches Intake Limit",
