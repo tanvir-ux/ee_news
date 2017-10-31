@@ -18,9 +18,9 @@
         "imgSrc": "https://raw.githubusercontent.com/tanvir-ux/ee_news/master/img/default.jpg"  
       },
       {
-        "title": "This is new title",
-        "link": "www.google.com",
-        "sponsored": false,
-        "imgSrc": "https://raw.githubusercontent.com/tanvir-ux/ee_news/master/img/default.jpg"  
+        "title": "Ontario PhD Graduate Stream Reaches Intake Limit",
+        "link": "https://www.canadavisa.com/news/ontario-phd-graduate-stream-reaches-intake-limit.html",
+        "sponsored": true,
+        "imgSrc": "https://canadavisa-dcdoznb3t.netdna-ssl.com/images/Optimized-graduates.jpg"  
       }
 ]
