@@ -1,6 +1,12 @@
 [
   {
     "sponsored": false,
+    "imgSrc": "https://images.thestar.com/content/dam/thestar/news/immigration/2017/11/01/canadian-government-to-raise-annual-immigrant-intake-by-13-by-2020/ahmed_hussen.jpg.size-custom-crop.1086x0.jpg",
+    "title": "Canadian government to raise annual immigration intake by 13% by 2020",
+    "link": "https://www.thestar.com/news/immigration/2017/11/01/canadian-government-to-raise-annual-immigrant-intake-by-13-by-2020.html"
+  },
+  {
+    "sponsored": false,
     "imgSrc": "https://i.cbc.ca/1.4261681.1503621628!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_940/trump-refugees-canadians-20170129.jpg",
     "title": "Minister says 300,000 new immigrants a year is Canada's 'new normal'",
     "link": "http://www.cbc.ca/radio/thehouse/why-the-governor-of-the-bank-of-canada-worries-about-your-debt-1.4372779/minister-says-300-000-new-immigrants-a-year-is-canada-s-new-normal-1.4375839"
